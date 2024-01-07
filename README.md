@@ -1,4 +1,4 @@
-# Project-247
+# Project Game 
 
 -The CarTest game is a Java application that allows users to participate in a test game where they answer questions and receive a car based on their score. The game presents a series of questions, evaluates the answers, and assigns a car to the player based on their performance.
 # Features
